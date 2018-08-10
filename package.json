@@ -1,0 +1,25 @@
+{
+  "name": "piotgroup.github.io",
+  "version": "1.0.0",
+  "description": "Piot Group Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://thuanqh@github.com/piotgroup/piotgroup.github.io.git"
+  },
+  "keywords": [
+    "piotgroup"
+  ],
+  "author": "Jason Quach (Huu Thuan)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piotgroup/piotgroup.github.io/issues"
+  },
+  "homepage": "https://github.com/piotgroup/piotgroup.github.io#readme",
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
